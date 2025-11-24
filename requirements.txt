@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-openai
+langchain-anthropic
+langchain-groq
+langchain-ollama
+openai
+fastapi
+uvicorn
+python-dotenv
+requests
